@@ -55,7 +55,10 @@ You can check the demo video from [Here](https://youtu.be/oad4JhejyQc). I've tri
 
 ## Developer Notes
 
-This project took me 2 days to fully implement it, I didn't care that much about the ui design, I just made as simple as I could. I really worked in the back-end server work and the main focus with working with seesions and how to handle it. Using AJAX was really helpful and has done great job in Books page, where you can see filter result immediately.
+This project took me 2 days to fully implement it, it was part of the college course assignment.
+Hopefully you like it.
+I didn't care that much about the ui design, I just made as simple as I could. The main focus was working with sessions and how to handle it.
+Using AJAX was really helpful and has done great job in Books page, where you can see filter result immediately.
 Although it's not my first web project, I found it really enjoyable. I may concern continue learning web developing.
 I appreciate any comments you can give on this project.
 Thanks
